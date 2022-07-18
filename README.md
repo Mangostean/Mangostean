@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://github-readme-stats.vercel.app/api?username=Mangostean&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Mangostean/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Mangostean](https://github.com/shubham/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-singh433](https://github.com/shubham/github-readme-stats)
