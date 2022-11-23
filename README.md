@@ -30,7 +30,7 @@ Iam joining in open-source community  to learn a lot and i love how collaboratio
 
 📈 my github stats
 
-<p align="center"/> <img src="https://github-readme-stats.vercel.app/api?username=shubham-singh433&show_icons=true&theme=dark" alt="Shubham singh bisht" />
+<p align="center"/> <img src="https://github-readme-stats.vercel.app/api?username=shubham-singh433&show_icons=true&theme=gotham" alt="Shubham singh bisht" />
 
  my Badges 
 <p align="centre"/><img src="https://holopin.me/shubham_bisht" alt="shubhams badge's"/>
