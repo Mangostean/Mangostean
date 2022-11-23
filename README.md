@@ -8,8 +8,9 @@
 <a href="https://www.linkedin.com/in/shubham-singh-bisht/">
   <img align="left" alt="Shubham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=shubham-singh433.visitor-badge)
 
+![](https://visitor-badge.glitch.me/badge?page_id=shubham-singh433.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shubham-singh433.visitor-badge&left_color=red&right_color=green) 
 <br />
 
 hi, i'm [Shubham Singh Bisht ] pursiuing my postgraduation in CS . My passion for software lies with dreaming up ideas and making them come true.
