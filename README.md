@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Curious about Current affaris and General knowledge
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-singh433&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![@shubham_bisht's Holopin board](https://holopin.me/shubham_bisht)](https://holopin.io/@shubham_bisht)
