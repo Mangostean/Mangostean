@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/shubham-singh-bisht/">
   <img align="left" alt="Shubham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=shubham-singh433)
+![](https://visitor-badge.glitch.me/badge?page_id=shubham-singh433.visitor-badge)
 
 <br />
 
