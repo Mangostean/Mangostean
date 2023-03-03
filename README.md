@@ -13,8 +13,8 @@
  
 <br />
 
-hi, i'm [Shubham Singh Bisht ] pursiuing my postgraduation in CS . My passion for software lies with dreaming up ideas and making them come true.
-Iam joining in open-source community  to learn a lot and i love how collaboration and knowledge sharing happened through open-source.
+Hi, i'm Shubham Singh Bisht  pursiuing my postgraduation in CS . My passion for software lies with dreaming up ideas and making them come true.
+I am joining the open-source community  to learn a lot, i love how collaboration and knowledge sharing happened through open-source.
 
 
 **languages and tools:**  
@@ -28,9 +28,9 @@ Iam joining in open-source community  to learn a lot and i love how collaboratio
 
 
 
-📈 my github stats
+📈 My Github Stats
 
 <p align="center"/> <img src="https://github-readme-stats.vercel.app/api?username=shubham-singh433&show_icons=true&theme=gotham" alt="Shubham singh bisht" />
 
- my Badges 
+ My Badges 
 <p align="centre"/><img src="https://holopin.me/shubham_bisht" alt="shubhams badge's"/>
