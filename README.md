@@ -33,4 +33,4 @@ I am joining the open-source community  to learn a lot, i love how collaboration
 <p align="center"/> <img src="https://github-readme-stats.vercel.app/api?username=shubham-singh433&show_icons=true&theme=gotham" alt="Shubham singh bisht" />
 
  My Badges 
-<p align="centre"/><img src="https://holopin.me/shubham_bisht" alt="shubhams badge's"/>
+<p align="centre"/><img src="https://holopin.me/shubham_bisht" alt="badge"/>
