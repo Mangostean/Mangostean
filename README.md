@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/master_lama/"> 
+  <a href="https://www.instagram.com/_shubhambisht03/"> 
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
     </a>
    <a href="https://discord.com/channels/@me">
@@ -66,6 +66,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/shubham-singh433/count.svg?"  />
 </div>
+
+
+
 
 ###
 
